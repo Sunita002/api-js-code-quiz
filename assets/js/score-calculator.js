@@ -1,3 +1,4 @@
+/*score calculator*/
 var scoreSummary = [];
 var scoreTableEl = document.querySelector("#score-table");
 
