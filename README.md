@@ -15,3 +15,6 @@ SO THAT I can gauge my progress compared to my peers
 <li>If question is answered incorrectly, user is notified with "incorrect" as response and time is deducted</li>
 <li>The game ends if all questions are answered or if counter reaches 0 </li>
 <li>Separate HTML created for user to submit name record high scores</li>
+
+## Launch Application
+![js-code-quiz-snap](https://user-images.githubusercontent.com/87583026/133941434-c5d337d0-5f15-46ac-8ccf-f3079d0d808c.png)
