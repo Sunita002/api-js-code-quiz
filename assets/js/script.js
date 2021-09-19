@@ -101,7 +101,7 @@ var checkAnswer = function(event) {
     var feedbackEl = document.querySelector(".feedback");
     feedbackEl.classList.remove("hide");
     
-    // checks button value against correct answer in array
+    // hecks button value against correct answer in array
     if (clickedBtn === codeQuiz[questionCounter].answer) {
         background.className = "correct";
         feedbackEl.textContent = "CORRECT!"
