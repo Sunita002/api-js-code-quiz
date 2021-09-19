@@ -74,7 +74,7 @@ var createQuiz = function() {
     scoreCounter();
 }
 
-// terates through questions and answers
+// iteration for questions and answers
 var nextQues = function(index) {
     var questionHeader = document.querySelector(".question-header");
     var questionEl = document.querySelector(".question");
